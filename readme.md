@@ -23,10 +23,3 @@ python handle.py -m 0 -t target_file_name -f Source_File_Name -v wrtie_unqiue_co
 
 ### Embed Complete Dir With Files And Folder
 python handle.py -m 2 -t target_file_name -d dir_name -n dir_name  -v write_unqiue_code
-
-Alternatively, you can compile My Exe Embedder from source:
-
-```bash
-git clone https://github.com/your-username/my-exe-embedder.git
-cd my-exe-embedder
-make
