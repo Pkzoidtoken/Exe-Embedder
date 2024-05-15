@@ -1,4 +1,4 @@
-# My Exe Embedder
+# My Exe Embedder Beta
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/my-exe-embedder/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/your-username/my-exe-embedder)](https://github.com/your-username/my-exe-embedder/issues)
