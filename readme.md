@@ -21,7 +21,7 @@ You can download the latest version of My Exe Embedder from the [releases page](
 ### Embed Single File
 python handle.py -m 0 -t target_file_name -f Source_File_Name -v wrtie_unqiue_code
 
-## Embed Complete Dir With Files And Folder
+### Embed Complete Dir With Files And Folder
 python handle.py -m 2 -t target_file_name -d dir_name -n dir_name  -v write_unqiue_code
 
 Alternatively, you can compile My Exe Embedder from source:
